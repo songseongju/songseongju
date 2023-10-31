@@ -43,7 +43,6 @@
     <p><strong>Development Tools</strong></p>
     <div>
      <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-     
     </div>
      <!-- Versioncontrol -->
     <p><strong>Version Control</strong></p>
