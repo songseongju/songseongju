@@ -46,6 +46,7 @@
       <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> 
        <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
          <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+         <img src="https://img.shields.io/badge/Android Strudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
     </div>
      <!-- Versioncontrol -->
     <p><strong>Version Control</strong></p>
